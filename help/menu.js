@@ -7,6 +7,16 @@ exports.help = (prefix,pushname, autorfg) => {
 ♔  = *_Utilizable por el dueño del bot_*
 └──────────────
 
+SIGUENOS!!
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+💌 _*<INSTAGRAM D KUIN + />*_
+ •> _https://www.instagram.com/w6y.x9v/?hl=es
+
+📦 _*<INSTAGRAM D JACK + />*_
+ •> _https://www.instagram.com/jack_paymon/?hl=es
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 ≡ *LISTA DE MENUS*
 ┌───⊷ *STICKER* ⊶
 ▢ *${prefix}sticker* _(Foto/video)_ 
